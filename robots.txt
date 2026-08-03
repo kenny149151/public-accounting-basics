@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://kenny149151.github.io/public-accounting-basics/sitemap.xml
+Sitemap: https://learnledger.cc/sitemap.xml
